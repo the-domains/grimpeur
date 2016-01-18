@@ -1,0 +1,12 @@
+layout_spectrum: 1
+color:
+  saturation: 1
+  brandStrength: 0.5042553
+  lightness: 1
+  brandColors:
+    - '#777777'
+    - '#D8D8D8'
+    - '#040404'
+  rhythmicContrast: 0.9808511
+typography_spectrum: 1
+name: Grimpeur
